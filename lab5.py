@@ -27,7 +27,6 @@ if "strawberries" in favorite_foods:
     print("I really like strawberries")
     
 #3.4
-
 age = 55
 
 if age <10:
